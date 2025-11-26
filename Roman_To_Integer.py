@@ -12,7 +12,3 @@ class Solution:
                 num_int += dict_vals[i]
             val_ant = dict_vals[i]
         return num_int
-
-
-solution = Solution
-print(solution.romanToInt("MCMXCIV"))
